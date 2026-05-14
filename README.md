@@ -15,4 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kanchi29999/Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/kanchi29999/Coding-Questions/tree/main/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->
