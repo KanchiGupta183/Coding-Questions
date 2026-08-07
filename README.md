@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/kanchi29999/Coding-Questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/kanchi29999/Coding-Questions/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/kanchi29999/Coding-Questions/tree/main/0178-rank-scores/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/kanchi29999/Coding-Questions/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
